@@ -1,4 +1,4 @@
-# TropicTaste---Classificazione-di-Frutti-Esotici-con-KNN
+# TropicTaste: Classificazione di Frutti Esotici con KNN
 
 ## Descrizione del progetto
 
